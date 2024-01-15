@@ -1,3 +1,3 @@
-# 0x0F. Python - Object-relational mapping
+## 0x0F. Python - Object-relational mapping
 
-made by salah ayman
+## made by Salah Ayman
